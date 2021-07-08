@@ -1,0 +1,234 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.banner-section{
+
+	background: url("picture.jpg") no-repeat center top;
+	background-size: cover;
+	padding: 0 0 200px ;
+	width: 100%;
+
+
+}
+.container{
+
+	width: 1140px;
+	margin: 0 auto;
+}
+.navbar{
+	padding-top: 30px;
+
+}
+
+
+.left{
+	float: left;
+
+color: white;
+
+}
+.right{
+	float: right;
+}
+.right ul{
+	Display;flex;
+	margin: 0;
+	padding: 0;
+}
+.right ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+
+
+}
+.right ul li a{
+	text-decoration: none;
+	color: white;
+	border-radius: 15px;
+}
+.menubutton{
+
+	padding: 10px 10px;
+	border: 1px solid white;
+}
+.para-part{
+
+	width: 100%;
+	text-align: center;
+	padding-top: 200px;
+	color: white;
+
+}
+.para-part h1{
+	font-size: 45px;
+	margin-top: 20px;
+	
+
+}
+.text-underline{
+	width:8% ;
+	margin: 0 auto;
+	background-color: #F14668;
+	height: 2px;
+
+}
+.shade{
+	background-color: #DEEEEA;
+	width: 100%;
+	margin: 0 auto;
+	height: 140px;
+	text-align: center;
+
+}
+.shade p{
+padding-top:29px;
+
+}
+.shade h4{
+	margin-top: 16px;
+	margin-bottom: 15px;
+
+}
+.Events{
+	background-color: white;
+	width: 66%;
+	margin: 0 auto;
+	height: 600px;
+	text-align: center;
+
+
+}
+.Events h2{
+	margin-top: 50px;
+
+
+}
+.left2{
+	float: left;
+	padding-top: 50px;
+	width: 50%;
+
+}
+.left2 p{
+	padding: 20px;
+	color: #393E46;
+
+}
+.right2 p{
+	padding: 20px;
+	color: #393E46;
+}
+.left2 a,.right2 a{
+	color: #F14668;
+	text-decoration: none;
+}
+
+.right2{
+	float: right;
+	padding-top: 50px;
+	width: 50%;
+}
+img{
+	max-width: 85%;
+	margin margin-left: 20px;
+}
+.banner2{
+    background:url(picture4.jpg) no-repeat center top;
+	
+    width:100% ;
+    height: 400px;
+	
+}
+.container2{
+	padding:88px;
+	text-align: center;
+	color: white;
+}
+.container2 h1{
+	padding-bottom: 20px;
+}
+.container2 p{
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+}
+.container2 a{
+	color: white;
+	padding-bottom: 57px;
+	text-decoration: none;
+}
+.destination{
+	width: 100%;
+	margin-top: 50px;
+	padding:50px ;
+}
+.banner3{
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-left: 110px;
+	
+}
+.mainpart{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 30px;
+}
+.left3{
+	width: 33%;
+	float: left;
+}
+.left3 h1{
+	margin-bottom: 20px;
+}
+.left3 p{
+margin-top: 30px;
+}
+.left3 button,.para-part button{
+	margin-top: 40px;
+	background-color: #F14668;
+	border-radius: 20px;
+	color: white;
+	padding: 10px 10px;
+}
+.right3{
+	width: 33%;
+	float: right;
+}
+.left4{
+	width: 33%;
+	float: right;
+}
+.last{
+	width:100% ;
+	height: 110px;
+background-color: #171717;
+text-align: center;
+overflow: hidden;
+color: white;
+}
+.footer{
+	width: 100%;
+
+}
+	
+.footer h4,.footer p{
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
